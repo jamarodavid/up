@@ -4,8 +4,8 @@ repo: up # The name of this repository
 
 sites:
   
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: KPSG
+    url: https://kpsg.com/
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
