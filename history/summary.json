@@ -4,7 +4,7 @@
     "url": "https://kpsg.com/",
     "icon": "https://icons.duckduckgo.com/ip3/kpsg.com.ico",
     "slug": "kpsg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
     "uptimeDay": "91.96%",
     "uptimeWeek": "98.65%",
@@ -16,6 +16,7 @@
     "timeMonth": 2246,
     "timeYear": 2449,
     "dailyMinutesDown": {
+      "2025-08-07": 0,
       "2025-08-06": 116,
       "2025-07-31": 20,
       "2025-07-30": 35,
